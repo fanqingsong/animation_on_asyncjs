@@ -1,6 +1,10 @@
 # async animation
 > 页面动画采用async库实现。
 
+效果
+ 显示从左到右每个一秒highlight一个方块字。
+
+![dynamical color changing block](demo.png)
 
 
 ~~
